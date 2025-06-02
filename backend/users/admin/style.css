@@ -1,0 +1,19 @@
+body {
+    min-height: 100vh;
+    /* Hapus display: flex dan flex-direction: column */
+}
+#sidebarMenu {
+    min-height: 100vh;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Jarak antara icon dan teks, bisa disesuaikan */
+    }
+
+    .nav-link i {
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.3em; /* Ukuran icon, bisa disesuaikan */
+}

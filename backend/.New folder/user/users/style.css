@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background-color: rgb(167, 187, 255) !important;
+}
+.global-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(195, 195, 243);
+}
+
+.login-form {
+  width: 380px;
+  height: 500px;
+  padding: 20x;
+  background-color: rgb(133, 129, 180);
+  border-radius: 10px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+  border: 2px solid #000ff000;
+}
