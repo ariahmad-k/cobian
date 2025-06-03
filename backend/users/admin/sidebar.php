@@ -14,12 +14,12 @@
             </a> -->
         </li>
         <li class="nav-item mb-1">
-            <a class="nav-link d-flex align-items-center active" aria-current="page" href="../../produk/index.php">
+            <a class="nav-link d-flex align-items-center active" aria-current="page" href="produk/list_menu.php">
             <i class="fas fa-box"></i> Produk
             </a>
         </li>
         <li class="nav-item mb-1">
-            <a class="nav-link d-flex align-items-center active" aria-current="page" href="../../transaksi/transaksi.php">
+            <a class="nav-link d-flex align-items-center active" aria-current="page" href="#../../transaksi/transaksi.php">
             <i class="fas fa-money-bill-wave"></i> Transaksi
             </a>
         </li>

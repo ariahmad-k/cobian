@@ -28,7 +28,7 @@
             justify-content: center
         }
         .product-card {
-            text align: center;
+            text-align: center;
             border: 1px solid #ddd;
             border-radius: 8px;
             padding: 10px;
